@@ -1,5 +1,3 @@
-# scoring.py or inside score_all_products.py
-
 def normalize_value(value, mapping):
     for key, score in mapping.items():
         if key.lower() in value.lower():

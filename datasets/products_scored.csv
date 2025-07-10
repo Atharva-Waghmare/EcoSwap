@@ -1,0 +1,11 @@
+title,material,recycled_content,packaging,lifecycle,recyclability,sustainability_score
+Eco Bottle,fully_biodegradable,high,recyclable,reusable,yes,85
+Plastic Bag,non_biodegradable,none,plastic,disposable,no,10
+Paper Wrap,compostable,medium,compostable,durable,partially,70
+Reusable Tote,partially_biodegradable,high,minimal,long-lasting,yes,75
+Glass Jar,recyclable_only,low,recyclable,long-lasting,yes,60
+Cardboard Box,recyclable_only,medium,compostable,durable,yes,60
+Aluminum Can,fully_biodegradable,medium,plastic,short-term,partially,55
+Silicone Straw,partially_biodegradable,high,minimal,reusable,yes,70
+Bioplastic Bag,compostable,low,plastic,disposable,partially,40
+Steel Flask,fully_biodegradable,high,minimal,long-lasting,yes,85
